@@ -1,2 +1,2 @@
 # Car-Resources
-the lua and metas you need to convert cars
+All of the lua and metas you need to convert cars
